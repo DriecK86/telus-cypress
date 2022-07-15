@@ -1,10 +1,11 @@
-node_modules/
-package.json
+node_modules/**
+package-lock.json
 yarn.lock
-cypress/e2e/1-getting-started/
-cypress/e2e/2-advanced-examples/
+cypress/e2e/1-getting-started/**
+cypress/e2e/2-advanced-examples/**
 cypress/videos/**
 cypress/screenshots/**
 cypress/snapshots/**
 reports/cucumber-htmlreport.html/**
 cypress/cucumber-json/**
+cypress/fixtures/example.json
