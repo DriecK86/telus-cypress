@@ -30,7 +30,7 @@ export default defineConfig({
     excludeSpecPattern: ["*.{.js,ts}", "*.md"],
     specPattern: ["**/*.{feature,features}"],
     supportFile: false,
-    defaultCommandTimeout: 15000,
+    defaultCommandTimeout: 60000,
     setupNodeEvents,
   },
 });

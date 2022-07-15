@@ -35,6 +35,6 @@
   },
   "scripts": {
     "cy:test-open": "cypress open",
-    "cy:test-run": "cy run"
+    "cy:test-run": "cypress run browser --browser chrome"
   }
 }

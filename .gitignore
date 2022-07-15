@@ -9,3 +9,4 @@ cypress/snapshots/**
 reports/cucumber-htmlreport.html/**
 cypress/cucumber-json/**
 cypress/fixtures/example.json
+pics/**
